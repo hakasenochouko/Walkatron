@@ -1,4 +1,4 @@
-ElecTech-Assemblage
+ElecTech-Compendium
 ===================
 
-A Group of Custom Made Mods
+A Compilation of Mods
