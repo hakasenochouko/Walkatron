@@ -1,4 +1,4 @@
-ElecTech-Compendium
+Walkatron
 ===================
 
-A Compilation of Mods
+An ElecTech-Assemblage Mod
